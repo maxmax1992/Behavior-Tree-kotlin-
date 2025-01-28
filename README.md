@@ -1,4 +1,4 @@
-# Behavior-Tree-kotlin-
+# Behavior-Tree implemented for Kotlin
 A behavior tree implementation for Kotlin with intuitive a maintainable syntax
 ## Usage
 define action and condition nodes and use following syntax to define the tree (note indentation):
