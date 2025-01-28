@@ -1,4 +1,4 @@
-package behavior_tree.nodes
+//package behavior_tree.nodes
 
 import kotlin.collections.isNotEmpty
 import kotlin.collections.lastIndex
