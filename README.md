@@ -1,7 +1,7 @@
 # Behavior-Tree implemented for Kotlin
-A behavior tree implementation for Kotlin with intuitive a maintainable syntax
+A behavior tree (BT) implementation for Kotlin with intuitive and maintainable syntax
 ## Usage
-define action and condition nodes and use following syntax to define the tree (note indentation):
+define action and condition nodes and use following syntax to define the tree (indentation specifies a branch out from a tree):
 Example how a fighting subtree would look like in a RPG game.
 ```
     val fightTree = TreeBuilder()
